@@ -14,6 +14,13 @@
             "email": "ins0mniac1van@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IntelligentSoftwareDevelopment\\EnumMethods\\EnumMethodsServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
