@@ -1,0 +1,19 @@
+{
+    "name": "isoftd/enummethods",
+    "description": "Dynamic methods for enums",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Isoftd\\Enummethods\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ins0mniac1",
+            "email": "ins0mniac1van@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
