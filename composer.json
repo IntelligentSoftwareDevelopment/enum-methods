@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Isoftd\\Enummethods\\": "src/"
+            "IntelligentSoftwareDevelopment\\EnumMethods\\": "src/"
         }
     },
     "authors": [
